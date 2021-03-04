@@ -1,5 +1,5 @@
 # mta
-Multi-Touch Attribution. Find out which channels contribute most to user conversion. This repo extends the implementation in https://github.com/eeghor/mta by applying so-called Simple Probabilistic Attribution Model by Shao and Li at the user/lead-path level, as opposed to just aggregate level attribution breackdown as found in that implementation.
+Multi-Touch Attribution. Find out which channels contribute most to user conversion. This repo extends the implementation in https://github.com/eeghor/mta by applying so-called Simple Probabilistic Attribution Model by Shao and Li at the user/lead-path level, as opposed to just aggregate level attribution breackdown as found in that implementation. See mta/shao_user_level_output.py for this addition.
 
 
 ### Included Data
